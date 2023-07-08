@@ -1,16 +1,14 @@
 # travel_agency
+A Flutter project for a travel agency.
 
-A new Flutter project.
+# Flutter Version
+Flutter 3.10.5 • channel stable • https://github.com/flutter/flutter.git
+Tools • Dart 3.0.5 • DevTools 2.23.1
 
-## Getting Started
+# Project Screens
 
-This project is a starting point for a Flutter application.
+![splash_screen](https://github.com/mirzamahmud/travel_agency/assets/91328350/bc81bdc8-606a-4c82-a1cc-c8e47f3a3c51)  ![onboard_screen](https://github.com/mirzamahmud/travel_agency/assets/91328350/77961d40-13a6-493e-a670-e1e8dcd18892)
 
-A few resources to get you started if this is your first Flutter project:
+![login_screen](https://github.com/mirzamahmud/travel_agency/assets/91328350/52c889b5-491a-4df2-a234-84fecd8f0b75)  ![registration_screen](https://github.com/mirzamahmud/travel_agency/assets/91328350/c55a2425-eefc-4d30-90c9-2e6cae92d53b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home_screen](https://github.com/mirzamahmud/travel_agency/assets/91328350/c345e644-ca5c-43b8-bc7e-bb6b784d9136)
